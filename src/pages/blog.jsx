@@ -23,7 +23,7 @@ const Blog = () => {
                   Some quick example text to build on the card title and up the
                   bulk of the card's content.
                 </p>
-                <a href="#" class="btn btn-primary">
+                <a href="/" class="btn btn-primary">
                   Lire la suite
                 </a>
               </div>
@@ -46,7 +46,7 @@ const Blog = () => {
                   Some quick example text to build on the card title and up the
                   bulk of the card's content
                 </p>
-                <a href="#" class="btn btn-primary">
+                <a href="/" class="btn btn-primary">
                   Lire la suite
                 </a>
               </div>
@@ -69,7 +69,7 @@ const Blog = () => {
                   Some quick example text to build on the card title and up the
                   bulk of the card's content
                 </p>
-                <a href="#" class="btn btn-primary">
+                <a href="/" class="btn btn-primary">
                   Lire la suite
                 </a>
               </div>
@@ -92,7 +92,7 @@ const Blog = () => {
                   Some quick example text to build on the card title and up the
                   bulk of the card's content
                 </p>
-                <a href="#" class="btn btn-primary">
+                <a href="/" class="btn btn-primary">
                   Lire la suite
                 </a>
               </div>
@@ -111,7 +111,7 @@ const Blog = () => {
                   Some quick example text to build on the card title and up the
                   bulk of the card's content
                 </p>
-                <a href="#" class="btn btn-primary">
+                <a href="/" class="btn btn-primary">
                   Lire la suite
                 </a>
               </div>
@@ -134,7 +134,7 @@ const Blog = () => {
                   Some quick example text to build on the card title and up the
                   bulk of the card's content
                 </p>
-                <a href="#" class="btn btn-primary">
+                <a href="/" class="btn btn-primary">
                   Lire la suite
                 </a>
               </div>

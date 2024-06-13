@@ -24,7 +24,7 @@ const Achievements = () => {
                 <p class="card-text">
                   Réalisation d'un site avec cande en ligne
                 </p>
-                <a href="#" class="btn btn-primary">
+                <a href="/" class="btn btn-primary">
                   Voir
                 </a>
               </div>
@@ -44,7 +44,7 @@ const Achievements = () => {
               <div class="card-body">
                 <h5 class="card-title">Restaurant Akira</h5>
                 <p class="card-text">Réalisation d'un site vitrine.</p>
-                <a href="#" class="btn btn-primary">
+                <a href="/" class="btn btn-primary">
                   Voir
                 </a>
               </div>
@@ -66,7 +66,7 @@ const Achievements = () => {
               <p class="card-text">
                 Réalisation d'un site pour un practicien bien-être
               </p>
-              <a href="#" class="btn btn-primary">
+              <a href="/" class="btn btn-primary">
                 Voir
               </a>
             </div>

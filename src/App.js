@@ -5,7 +5,7 @@ import Achievements from "./pages/achievements";
 import Blog from "./pages/blog";
 import Contact from "./pages/contact";
 import Notice from "./pages/notice";
-import Profil from "./pages/profil"
+import Profil from "./pages/profil";
 import "./App.css";
 
 function App() {
@@ -95,11 +95,9 @@ function App() {
             <div className="col-lg-3 col-md-6">
               <h5>John Doe</h5>
               <address>
-                <a href="https://www.google.fr/maps/place/40+Rue+Laure+Diebold,+69009+Lyon/@45.7786657,4.796404,17z/data=!3m1!4b1!4m6!3m5!1s0x47f4eb65edac5b3f:0xe01c47049cb2e2b9!8m2!3d45.778662!4d4.7989789!16s%2Fg%2F11c24790th?entry=ttu">
-                  40 Rue Laure Diebold
-                  <br />
-                  69009 Lyon, France
-                </a>
+                40 Rue Laure Diebold
+                <br />
+                69009 Lyon, France
                 <br />
                 Téléphone : <a href="tel:0620304050">06 20 30 40 50</a>
               </address>
@@ -165,13 +163,13 @@ function App() {
               <nav>
                 <ul>
                   <li>
-                    <a href="#">Coder son site en HTML/CSS</a>
+                    <Link to="/blog">Coder son site en HTML/CSS</Link>
                   </li>
                   <li>
-                    <a href="#">Vendre ses produits sur le web</a>
+                    <Link to="/blog">Vendre ses produits sur le web</Link>
                   </li>
                   <li>
-                    <a href="#">Se positionner sur Google</a>
+                    <Link to="/blog">Se positionner sur Google</Link>
                   </li>
                 </ul>
               </nav>
@@ -179,7 +177,7 @@ function App() {
           </div>
         </div>
         <div className="copyright text-center mt-6">
-            <small>© Designed by John Doe</small>
+          <small>© Designed by John Doe</small>
         </div>
       </footer>
     </div>
