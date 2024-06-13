@@ -1,0 +1,17 @@
+.contact-bg {
+    background-image:linear-gradient(rgba(0, 105, 255, 0.5), rgba(0, 105, 255, 0.5)), url(/public/img/contact-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 60px;
+}
+
+.contact {
+    background-color: white;
+    padding: 20px;
+    border-radius: 1%;
+}
+
+.map {
+    border: 0;
+}

@@ -1,0 +1,26 @@
+.ux, .dev, .seo {
+    background-color: rgb(239, 239, 239);
+    border-radius: 5%;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    margin-bottom: 30px;
+    
+}
+
+.ux:hover {
+    .bi-display {
+    fill: #cde1f8;
+    }
+}
+
+.dev:hover {
+    .bi-file-earmark-code-fill{
+        fill: #cde1f8;
+    }
+}
+
+.seo:hover {
+    .bi-search-heart-fill{
+        fill: #cde1f8;
+    }
+}

@@ -1,0 +1,42 @@
+/* Desktop uniquement */
+@media screen and (min-width : 1024px) {
+    .banner {
+        background-image: url(/public/img/banner.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        padding : 100px ;
+        margin-bottom: 20px;
+    }
+}
+
+/* Tablette uniquement */
+@media screen and (min-width : 720px) and (max-width : 1023px) {
+    .banner {
+        background-image: url(/public/img/banner-tablette.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        padding : 100px ;
+        margin-bottom: 20px;
+    }
+}
+
+/* Mobile uniquement */
+@media screen and (max-width : 719px) {
+    .banner {
+        background-image: url(/public/img/banner-mobile.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        padding : 100px;
+        margin-bottom: 20px;
+    }
+}
+
+.card {
+    width: 18rem;
+    margin: 20px;
+}
+
+
